@@ -1,6 +1,6 @@
 {
-  "name": "Find Doggy",
-  "short_name": "Find Doggy",
+  "name": "Find Puppy",
+  "short_name": "Find Puppy",
   "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
