@@ -1,0 +1,18 @@
+{
+  "name": "¿Y el perrito?",
+  "short_name": "¿Y el perrito?",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF6E9",
+  "theme_color": "#FFF6E9",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "lang": "es"
+}
